@@ -1,0 +1,1 @@
+java -cp "listener.jar;target\classes\;testng.jar" org.testng.TestNG testng2.xml
